@@ -306,6 +306,8 @@ settings: {
 "extends": "./tsconfig.paths.json"
 ```
 
+**Para parte de tests verifique esse repositório [gostack-gobarber-ts-web](https://github.com/mrcarromesa/gostack-gobarber-ts-web)**
+
 ---
 
 ## Criando rotas da aplicação
